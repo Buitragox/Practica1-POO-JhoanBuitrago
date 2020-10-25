@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "55oFtVfi7seTpK1dqN8v2HRR25XlVbI1ehOgs53hkSv+OGjkdUQkmycExAjPXvlXEC6gsJuhc8T2aVz/0Y6BNA==",
+  "success": true,
+  "projectFilePath": "D:\\Programación\\git\\Practica1-POO-JhoanBuitrago\\AutoFarm\\AutoFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BUITRAGO CHAVEZ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

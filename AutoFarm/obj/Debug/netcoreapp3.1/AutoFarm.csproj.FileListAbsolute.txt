@@ -1,0 +1,13 @@
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\bin\Debug\netcoreapp3.1\AutoFarm.exe
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\bin\Debug\netcoreapp3.1\AutoFarm.deps.json
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\bin\Debug\netcoreapp3.1\AutoFarm.runtimeconfig.json
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\bin\Debug\netcoreapp3.1\AutoFarm.runtimeconfig.dev.json
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\bin\Debug\netcoreapp3.1\AutoFarm.dll
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\bin\Debug\netcoreapp3.1\AutoFarm.pdb
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\obj\Debug\netcoreapp3.1\AutoFarm.csprojAssemblyReference.cache
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\obj\Debug\netcoreapp3.1\AutoFarm.AssemblyInfoInputs.cache
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\obj\Debug\netcoreapp3.1\AutoFarm.AssemblyInfo.cs
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\obj\Debug\netcoreapp3.1\AutoFarm.csproj.CoreCompileInputs.cache
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\obj\Debug\netcoreapp3.1\AutoFarm.dll
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\obj\Debug\netcoreapp3.1\AutoFarm.pdb
+D:\Programación\git\Practica1-POO-JhoanBuitrago\AutoFarm\obj\Debug\netcoreapp3.1\AutoFarm.genruntimeconfig.cache
